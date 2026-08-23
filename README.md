@@ -4,7 +4,25 @@
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-6B2C91?style=for-the-badge&logo=powerbi)
 ![SQL](https://img.shields.io/badge/SQL-Server-3B0A45?style=for-the-badge&logo=microsoftsqlserver)
-![Excel](https://img.shields.io/badge/Microsoft-Excel-217346?style=for-the-badge&logo=microsoftexcel)
+![Excel](https://img.shields.io/badge/Microsoft-Excel-217346?style=for-the-badge&logo=microsoftexcel) 
+
+---
+
+## 📊 Dashboard Preview
+
+This project features a **4-page interactive Power BI dashboard**, consisting of a project cover page and three analytical dashboards.
+
+### 1️⃣ Project Cover
+![Project Cover](Istanbul_Cover.png)
+
+### 2️⃣ Executive Summary
+![Executive Summary](Istanbul_ExecutiveSummary.png)
+
+### 3️⃣ Customer Analysis
+![Customer Analysis](Istanbul_CustomerAnalysis.png)
+
+### 4️⃣ Sales Trend Analysis
+![Sales Trend Analysis](Istanbul_SalesTrend.png)
 
 ---
 
